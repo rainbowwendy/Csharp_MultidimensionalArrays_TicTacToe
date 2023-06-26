@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_MultidimensionalArrays_TicTacToe", "Csharp_MultidimensionalArrays_TicTacToe\Csharp_MultidimensionalArrays_TicTacToe.csproj", "{1BE669F0-60B4-425E-B20C-9E6BC9247FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE669F0-60B4-425E-B20C-9E6BC9247FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE669F0-60B4-425E-B20C-9E6BC9247FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE669F0-60B4-425E-B20C-9E6BC9247FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE669F0-60B4-425E-B20C-9E6BC9247FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2529E45-0128-4140-AF3C-835291277B04}
+	EndGlobalSection
+EndGlobal
